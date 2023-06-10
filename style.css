@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+ font-family: 'roboto', sans-serif;
+
+}
+
+.imgbanner{
+    width: 99vw;
+    height: 40vh;
+}
+
+.container{
+    background-color: white;
+    display: flex;
+     flex-direction: column;
+}
+
+.section1{
+   display: flex;
+}
+
+.First{
+    display: flex;
+    
+}
